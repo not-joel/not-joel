@@ -1,5 +1,5 @@
 - 👋 Hi, I’m joel
-- 👀 I’m interested in ... Full Stack Web Developer
+- 👀 I’m interested in ... Full Stack Web Development
 - 🌱 I’m currently learning ... Vue Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
